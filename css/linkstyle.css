@@ -1,0 +1,16 @@
+.navigation__link--select{
+    border: 2px solid #8fd7cf;
+    border-radius: 3px;
+    padding: 8px 17px;
+}
+
+/*.navigation__link--select::before {*/
+    /*border-color: #2BB3A5;*/
+    /*border-style: solid;*/
+    /*content: "";*/
+    /*height: 0;*/
+    /*!*right: 0;*!*/
+    /*positon: absolute;*/
+    /*top: 100%;*/
+    /*width: 0;*/
+/*}*/
